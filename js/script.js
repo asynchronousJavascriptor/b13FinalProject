@@ -73,7 +73,6 @@ function aboutScreenTimeline(){
       trigger: "#about",
       start: "top 70%",
       scroller: "#webpage",
-      markers: true
     }
   })
   
@@ -82,7 +81,6 @@ function aboutScreenTimeline(){
       trigger: "#about #line",
       start: "top 50%",
       scroller: "#webpage",
-      markers: true
     }
   })
   
@@ -182,7 +180,6 @@ function handleProductsAnimations(){
       trigger: "#products",
       start: "top 70%",
       scroller: "#webpage",
-      markers: true
     }
   })
 
