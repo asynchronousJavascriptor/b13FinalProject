@@ -360,7 +360,7 @@ body{
     object-fit: cover;
 }
 
-@media(max-width: 450px){
+@media(max-width: 650px){
     #nav{
         padding: 0 10px;
     }

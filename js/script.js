@@ -25,7 +25,7 @@ locomotiveScrollIntialize();
 
 
 // handling main screen animation on just desktop sizes
-if(window.screen.width > 450){
+if(window.screen.width > 650){
 
   function mainScreenTimeline(){
   
